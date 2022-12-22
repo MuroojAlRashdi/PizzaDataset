@@ -2,5 +2,5 @@ matplotlib
 pandas
 streamlit
 altair
-data
+vega_datasets
 openpyxl
